@@ -1,5 +1,5 @@
 # Rede Social PHP
-[comment]: <> (Licence goes here)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeangregolon/php_social_network/blob/main/LICENSE)
 
 ## Sobre o projeto
 É uma rede social inspirada no Twitter: as postagens são feitas em formato de texto e existe a possibilidade de seguir pessoas para ver suas postagens. Na página de perfil, o usuário pode ver quantas publicações já fez, quantos seguidores possui e quantas pessoas segue.
